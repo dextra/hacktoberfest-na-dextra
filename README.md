@@ -104,11 +104,6 @@ Você também pode se juntar à nossa equipe no Slack caso precise de alguma aju
 
 Agora você pode colaborar com outros projetos. Nós compilamos uma lista de projetos com problemas simples que você pode começar. Verifique [a lista de projetos no web app](https://roshanjossey.github.io/first-contributions/#project-list).
 
-## Autopromoção
+## Referência
 
-Se você gostou deste projeto, favorite-o com um estrela no [GitHub](https://github.com/Roshanjossey/first-contributions).
-Se estiver se sentindo especialmente caridoso, siga [Roshan](https://roshanjossey.github.io/) no
-[Twitter](https://twitter.com/sudo__bangbang) e
-[GitHub](https://github.com/roshanjossey).
-
-<a href="http://saasgrids.com"> <img alt="http://saasgrids.com" src="./assets/saasgrids-banner.png" width="500"></a>
+Este documento foi obtido no seguinte [repositório](https://github.com/Roshanjossey/first-contributions). Se você gostou, entre nele e dê uma estrela.
