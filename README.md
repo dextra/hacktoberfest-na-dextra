@@ -41,7 +41,7 @@ onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o con
 
 Vá para o diretório do repositório no seu computador (caso você não esteja lá):
 ```
-cd first-contributions
+cd hacktoberfest-na-dextra
 ```
 
 Agora crie um Branch usando o comando `git checkout`:
