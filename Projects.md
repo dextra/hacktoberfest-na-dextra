@@ -10,5 +10,11 @@ https://github.com/AndrewAndros/My-Food-Recipes-App
 ## Projeto Android baseado em um curso do Mitch Tabian
 https://github.com/AndrewAndros/My-Food-Recipes-App
 
-## DeveloPets
-http://github.com/vspedr/developets - React
+## DeveloPets em React
+http://github.com/vspedr/developets
+
+## Cyrillic Pomodoro em React
+http://github.com/fernandopiniani/cyrillic-pomodoro
+
+## Switchblade - Bot para canais do Discord em Node.js
+http://github.com/fernandopiniani/cyrillic-pomodoro
