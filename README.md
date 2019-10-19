@@ -106,7 +106,7 @@ Agora você pode colaborar com outros projetos. Nós compilamos uma lista de pro
 Este documento foi obtido no seguinte [repositório](https://github.com/Roshanjossey/first-contributions). Se você gostou, entre nele e dê uma estrela.
 
 ## Buscas rápidas
-[Issues para começar] (https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
-[Issues de Design] (https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+label%3A%22design%22)
-[Issues de Bugs] (https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22bug%22+label%3A%22good+first+issue%22)
-[Issues de CSS] (https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22style%22)
+[Issues para começar](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+[Issues de Design](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22+label%3A%22design%22)
+[Issues de Bugs](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22bug%22+label%3A%22good+first+issue%22)
+[Issues de CSS](https://github.com/search?q=is%3Aissue+is%3Aopen+label%3A%22style%22)
