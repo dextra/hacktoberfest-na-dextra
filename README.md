@@ -9,9 +9,6 @@
 
 Ler artigos e ver tutoriais pode ajudar, mas o que é melhor do que realmente pôr a mão na massa em um ambiente prático? Este projeto visa guiar e simplificar a forma com que os novatos fazem a sua primeira contribuição. Se quiser fazer a sua primeira contribuição, siga os passos abaixo.
 
-#### *Se você não se sente confortável com linha de comando, [aqui estão alguns tutoriais de ferramentas gráficas.]( #tutoriais-com-outras-ferramentas)*
-
-
 <img align="right" width="300" src="./assets/fork.png" alt="fork deste repositório" />
 
 Se não possui o git em sua máquina, [instale-o aqui]( https://help.github.com/articles/set-up-git/ ).
@@ -44,7 +41,7 @@ onde "seu-usuário" é o seu usuário do GitHub. Aqui você está copiando o con
 
 Vá para o diretório do repositório no seu computador (caso você não esteja lá):
 ```
-cd first-contributions
+cd hacktoberfest-na-dextra
 ```
 
 Agora crie um Branch usando o comando `git checkout`:
