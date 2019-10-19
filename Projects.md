@@ -6,3 +6,9 @@ https://github.com/ZoranPandovski/design-patterns
 
 ## Projeto Android baseado em um curso do Mitch Tabian
 https://github.com/AndrewAndros/My-Food-Recipes-App
+
+## Projeto Android baseado em um curso do Mitch Tabian
+https://github.com/AndrewAndros/My-Food-Recipes-App
+
+## DeveloPets
+http://github.com/vspedr/developets - React
