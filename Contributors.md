@@ -6,3 +6,4 @@
 - [Marcelo Pinheiro](https://github.com/marcelocpinheir)
 - [Pedro Neri](https://github.com/pedrogneri)
 - [Allan Barbosa](https://github.com/allbarbos)
+- [Carlos Eduardo da Silva Santos (Humano Laranja)](https://github.com/humanolaranja)
