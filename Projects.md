@@ -18,3 +18,6 @@ http://github.com/fernandopiniani/cyrillic-pomodoro
 
 ## Switchblade - Bot para canais do Discord em Node.js
 http://github.com/fernandopiniani/cyrillic-pomodoro
+
+## WordPress Refs - Tiny WordPress theme references
+https://github.com/bolonhadev/wordpress-refs
