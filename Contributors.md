@@ -1,3 +1,7 @@
-Fernando Piniani
-Elias Reis
-Pedro Neri
+# Contributors
+
+- Fernando Piniani
+- Elias Reis
+- Pedro Zaroni
+- Marcelo Pinheiro
+- Pedro Neri
