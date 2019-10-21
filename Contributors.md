@@ -23,3 +23,4 @@
 - [Bruno Habermann](https://github.com/bhabermann)
 - [Vanessa Alves](https://github.com/gitvanessa)
 - [Eduardo Kameda](https://github.com/ekameda)
+- [Mateus Hidalgo](https://github.com/mateusice85)
