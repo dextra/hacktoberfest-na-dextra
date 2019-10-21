@@ -22,3 +22,4 @@
 - [Apolo Rossi](https://github.com/ApoloRossi)
 - [Bruno Habermann](https://github.com/bhabermann)
 - [Vanessa Alves](https://github.com/gitvanessa)
+- [Eduardo Kameda](https://github.com/ekameda)
