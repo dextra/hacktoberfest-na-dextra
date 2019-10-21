@@ -21,3 +21,6 @@ http://github.com/fernandopiniani/cyrillic-pomodoro
 
 ## WordPress Refs - Tiny WordPress theme references
 https://github.com/bolonhadev/wordpress-refs
+
+## Gereco - Gerenciador de eventos competitivos em java
+https://github.com/pedrogneri/gereco
