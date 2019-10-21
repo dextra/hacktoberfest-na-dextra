@@ -17,7 +17,7 @@ http://github.com/vspedr/developets
 http://github.com/fernandopiniani/cyrillic-pomodoro
 
 ## Switchblade - Bot para canais do Discord em Node.js
-http://github.com/fernandopiniani/cyrillic-pomodoro
+https://github.com/SwitchbladeBot/switchblade
 
 ## WordPress Refs - Tiny WordPress theme references
 https://github.com/bolonhadev/wordpress-refs
