@@ -11,3 +11,4 @@
 - [Thiago Natanael](https://github.com/tnatanael)
 - [Leonardo Sibela](https://github.com/leonardosibela)
 - [Gustavo Ramalho](https://github.com/gusramalho)
+- [Victor Senna](https://github.com/vsfm)
