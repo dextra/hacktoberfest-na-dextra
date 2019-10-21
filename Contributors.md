@@ -10,3 +10,4 @@
 - [Julia Melo](https://github.com/julia-melo)
 - [Thiago Natanael](https://github.com/tnatanael)
 - [Leonardo Sibela](https://github.com/leonardosibela)
+- [Gustavo Ramalho](https://github.com/gusramalho)
