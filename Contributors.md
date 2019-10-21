@@ -19,3 +19,4 @@
 - [Carolina F. Carvalho](https://github.com/carolinafcarvalho)
 - [Franciene Bernardi](https://github.com/Franciene)
 - [Caio Petrucci dos Santos Rosa](https://github.com/caiopetruccirosa)
+- [Apolo Rossi](https://github.com/ApoloRossi)
