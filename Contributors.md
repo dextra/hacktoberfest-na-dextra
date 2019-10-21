@@ -21,3 +21,4 @@
 - [Caio Petrucci dos Santos Rosa](https://github.com/caiopetruccirosa)
 - [Apolo Rossi](https://github.com/ApoloRossi)
 - [Bruno Habermann](https://github.com/bhabermann)
+- [Vanessa Alves](https://github.com/gitvanessa)
