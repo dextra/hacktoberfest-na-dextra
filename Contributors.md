@@ -9,3 +9,4 @@
 - [Carlos Eduardo da Silva Santos (Humano Laranja)](https://github.com/humanolaranja)
 - [Julia Melo](https://github.com/julia-melo)
 - [Thiago Natanael](https://github.com/tnatanael)
+- [Leonardo Sibela](https://github.com/leonardosibela)
