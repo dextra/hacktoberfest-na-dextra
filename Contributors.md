@@ -13,3 +13,4 @@
 - [Gustavo Ramalho](https://github.com/gusramalho)
 - [Victor Senna](https://github.com/vsfm)
 - [Lucas Pedroso](https://github.com/pedrosoc)
+- [Rafael Grisotto](https://github.com/grisotto)
