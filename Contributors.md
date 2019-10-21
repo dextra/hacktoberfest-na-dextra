@@ -1,3 +1,23 @@
-Fernando Piniani
-Elias Reis
-Bruno Habermann
+# Contributors
+
+- [Fernando Piniani](https://github.com/fernandopiniani)
+- [Elias Reis](https://github.com/eliasreis54)
+- [Pedro Zaroni](https://github.com/mugbug)
+- [Marcelo Pinheiro](https://github.com/marcelocpinheir)
+- [Pedro Neri](https://github.com/pedrogneri)
+- [Allan Barbosa](https://github.com/allbarbos)
+- [Carlos Eduardo da Silva Santos (Humano Laranja)](https://github.com/humanolaranja)
+- [Julia Melo](https://github.com/julia-melo)
+- [Thiago Natanael](https://github.com/tnatanael)
+- [Leonardo Sibela](https://github.com/leonardosibela)
+- [Gustavo Ramalho](https://github.com/gusramalho)
+- [Victor Senna](https://github.com/vsfm)
+- [Lucas Pedroso](https://github.com/pedrosoc)
+- [Rafael Grisotto](https://github.com/grisotto)
+- [Milton Bolonha](https://github.com/bolonhadev)
+- [Joao Chioda](https://github.com/joaochioda)
+- [Carolina F. Carvalho](https://github.com/carolinafcarvalho)
+- [Franciene Bernardi](https://github.com/Franciene)
+- [Caio Petrucci dos Santos Rosa](https://github.com/caiopetruccirosa)
+- [Apolo Rossi](https://github.com/ApoloRossi)
+- [Bruno Habermann](https://github.com/bhabermann)
