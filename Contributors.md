@@ -15,3 +15,4 @@
 - [Lucas Pedroso](https://github.com/pedrosoc)
 - [Rafael Grisotto](https://github.com/grisotto)
 - [Milton Bolonha](https://github.com/bolonhadev)
+- [Joao Chioda](https://github.com/joaochioda)
