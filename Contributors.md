@@ -17,3 +17,4 @@
 - [Milton Bolonha](https://github.com/bolonhadev)
 - [Joao Chioda](https://github.com/joaochioda)
 - [Carolina F. Carvalho](https://github.com/carolinafcarvalho)
+- [Franciene Bernardi](https://github.com/Franciene)
