@@ -7,9 +7,6 @@ https://github.com/ZoranPandovski/design-patterns
 ## Projeto Android baseado em um curso do Mitch Tabian
 https://github.com/AndrewAndros/My-Food-Recipes-App
 
-## Projeto Android baseado em um curso do Mitch Tabian
-https://github.com/AndrewAndros/My-Food-Recipes-App
-
 ## DeveloPets em React
 http://github.com/vspedr/developets
 
@@ -17,7 +14,7 @@ http://github.com/vspedr/developets
 http://github.com/fernandopiniani/cyrillic-pomodoro
 
 ## Switchblade - Bot para canais do Discord em Node.js
-http://github.com/fernandopiniani/cyrillic-pomodoro
+https://github.com/SwitchbladeBot/switchblade
 
 ## WordPress Refs - Tiny WordPress theme references
 https://github.com/bolonhadev/wordpress-refs
