@@ -24,3 +24,4 @@
 - [Vanessa Alves](https://github.com/gitvanessa)
 - [Eduardo Kameda](https://github.com/ekameda)
 - [Mateus Hidalgo](https://github.com/mateusice85)
+- [Erick Zanardo](https://github.com/erickzanardo)

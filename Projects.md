@@ -21,3 +21,9 @@ https://github.com/bolonhadev/wordpress-refs
 
 ## Gereco - Gerenciador de eventos competitivos em java
 https://github.com/pedrogneri/gereco
+
+## Flame - Flutter game engine
+https://github.com/flame-engine/flame
+
+## Audioplayers - Flutter plugin to play multiple audio files
+https://github.com/luanpotter/audioplayers
